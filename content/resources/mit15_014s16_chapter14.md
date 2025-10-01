@@ -6,6 +6,8 @@ description: 'Chapter 14 of ROberto Rigobon''s book, Managerial International Ma
 file: /courses/15-014-applied-macro-and-international-economics-ii-spring-2016/c7f9f9e0962fc5fd635ae263da5dfe2e_MIT15_014S16_Chapter14.pdf
 file_size: 1106443
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

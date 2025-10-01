@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section provides the case assignments for the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -18,35 +20,35 @@ Every question should be answered at most in one page, except for the Argentina 
 Case Question 1
 ---------------
 
-Case: "{{% resource_link "2c63dd86-4459-4ae1-9068-e7b18b60a627" "U.S. Current Account Deficit" %}}," HBS 9706002.
+Case: "[U.S. Current Account Deficit](http://www.hbs.edu/faculty/Pages/item.aspx?num=32498)," HBS 9706002.
 
 Is the US sustainable? Find in trading economics the CA and Wage Changes in any of the last three years and do a BBNN diagnostic!
 
 Case Question 2
 ---------------
 
-Case: "{{% resource_link "923b5968-4e09-4398-9faf-164f1916b25e" "Menem and the Populist Tradition in Argentina" %}}," HBS 9700061.
+Case: "[Menem and the Populist Tradition in Argentina](http://www.hbs.edu/faculty/Pages/item.aspx?num=27070)," HBS 9700061.
 
 Explain 3 events from the case (such as devaluations, policy choices, growth, change in export prices, etc.). Do the diagnostic, and explain the impact using the BBNN.
 
 Case Question 3
 ---------------
 
-Case: "{{% resource_link "9ee5c5b8-2b4d-4b89-ab4d-4a540d66fa4f" "New Theories of International Trade" %}}," HBS 9390001.
+Case: "[New Theories of International Trade](http://www.hbs.edu/faculty/Pages/item.aspx?num=11545)," HBS 9390001.
 
 Should UK remain in the European Union? (yes, no) What are the advantages of Protection?
 
 Case Question 4
 ---------------
 
-Case: "{{% resource_link "3f0537dc-fe5d-448d-87da-664d01e42a6d" "Reforming Social Security Around the World" %}}," Kellogg KEL493.
+Case: "[Reforming Social Security Around the World](https://hbr.org/product/reforming-social-security-around-the-world/KEL493-HCB-ENG)," Kellogg KEL493.
 
 Answer for one country only: How would you change the social security system in (US, France, or Japan)?
 
 Case Question 5
 ---------------
 
-Case: "{{% resource_link "4dbd33d2-b9d8-46b8-95cb-a450e8fbf13b" "A Framework to Think About Pollution" %}}," Darden UV5687.
+Case: "[A Framework to Think About Pollution](https://hbr.org/product/a-framework-to-think-about-pollution-externalities-pollution-taxes-and-cap-and-trade/UV5687-PDF-ENG)," Darden UV5687.
 
 Comment the following Statement: Carbon Tax Markets have the chance to solve the property rights problem that exists in CO2 emissions.
 

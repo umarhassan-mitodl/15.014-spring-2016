@@ -5,6 +5,8 @@ description: 'A lecture about public goods, public choice and the voting paradox
 file: /courses/15-014-applied-macro-and-international-economics-ii-spring-2016/ed8e56370bfc803e1e3710e22b7a0d7d_MIT15_014S16_L13Choice.pdf
 file_size: 908960
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

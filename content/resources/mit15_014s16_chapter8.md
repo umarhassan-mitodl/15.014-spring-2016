@@ -6,6 +6,8 @@ description: 'Chapter 8 of Roberto Rigobon''s book, Managerial International Mac
 file: /courses/15-014-applied-macro-and-international-economics-ii-spring-2016/2ab204533af09602dee9d06124867a7a_MIT15_014S16_Chapter8.pdf
 file_size: 535657
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

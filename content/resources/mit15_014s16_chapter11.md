@@ -6,6 +6,8 @@ description: 'Chapter 11 of Roberto Rigobon''s book, Managerial International Ma
 file: /courses/15-014-applied-macro-and-international-economics-ii-spring-2016/debe183b6ab620db61bbb2539c5119b4_MIT15_014S16_Chapter11.pdf
 file_size: 368699
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

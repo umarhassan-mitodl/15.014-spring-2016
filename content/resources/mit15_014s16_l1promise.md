@@ -5,6 +5,8 @@ description: Lecture presentation on the principles of environmental sustainabil
 file: /courses/15-014-applied-macro-and-international-economics-ii-spring-2016/b390aa19f48751fb774ff97db096a0c1_MIT15_014S16_L1Promise.pdf
 file_size: 692944
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

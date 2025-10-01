@@ -5,6 +5,8 @@ description: 'Chapter 9 of  Robert Rigobon''s book, Managerial International Mac
 file: /courses/15-014-applied-macro-and-international-economics-ii-spring-2016/09a6a1041b7c8be1232c4955565b5381_MIT15_014S16_Chapter9.pdf
 file_size: 390668
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
