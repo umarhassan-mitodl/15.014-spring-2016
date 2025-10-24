@@ -5,8 +5,6 @@ description: A lecture about currency, cryptocurrencies, and bitcoin in the cont
 file: /courses/15-014-applied-macro-and-international-economics-ii-spring-2016/4cf4c3e8747b4b055b089b0002815ad5_MIT15_014S16_L16Bitcoin.pdf
 file_size: 2963711
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

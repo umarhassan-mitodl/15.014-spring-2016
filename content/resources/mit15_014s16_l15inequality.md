@@ -5,8 +5,6 @@ description: A lecture about income inequality in the context of macro- and inte
 file: /courses/15-014-applied-macro-and-international-economics-ii-spring-2016/436a8e92c9547d3e61f60ca077d8f2bc_MIT15_014S16_L15Inequality.pdf
 file_size: 2502087
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

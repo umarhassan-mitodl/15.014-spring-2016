@@ -4,8 +4,6 @@ description: A lecture about shocks in the context of macro- and international e
 file: /courses/15-014-applied-macro-and-international-economics-ii-spring-2016/ea0f28dd3ed4eb5ceaf6112057c71cd0_MIT15_014S16_L6Argentina.pdf
 file_size: 1189206
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
